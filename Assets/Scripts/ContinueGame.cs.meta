@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c17847dc56c6f64889b80e3a95e9970
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseButton: {instanceID: 0}
+  - musicbutton: {instanceID: 0}
+  - aButton: {fileID: 157224, guid: c2cf9bae85280df498684a5d4a0379e5, type: 3}
+  - bButton: {fileID: 173252, guid: 90e8e39bbb6cfbd489e35781ba3fb76f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
